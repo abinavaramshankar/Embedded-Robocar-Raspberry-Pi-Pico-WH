@@ -39,10 +39,12 @@ Building it taught me a lot about embedded programming, wiring things up properl
 - Live battery and motor readings on the control page
 - Eventually, some autonomous driving, like following a path on its own
 
-## Project Demonstration
+## 🎥 Project Demonstration
 
-- Watch the demonstration of the project on youtube
-- https://youtu.be/oiq4mEuV4kM?si=RYISXil5QpALXP4S
+[![Watch the Embedded Robocar Demo](https://img.youtube.com/vi/oiq4mEuV4kM/hqdefault.jpg)](https://youtu.be/oiq4mEuV4kM)
+
+*Watch the demonstration of my Raspberry Pi Pico WH-based robotic car.*
+
 
 ## Background
 
