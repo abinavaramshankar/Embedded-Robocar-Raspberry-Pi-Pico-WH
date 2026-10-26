@@ -42,7 +42,7 @@ Building it taught me a lot about embedded programming, wiring things up properl
 ## Project Demonstration
 
 - Watch the demonstration of the project on youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oiq4mEuV4kM?si=zIrKIPr0RJOxQTik" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+- https://youtu.be/oiq4mEuV4kM?si=RYISXil5QpALXP4S
 
 ## Background
 
