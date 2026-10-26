@@ -39,6 +39,11 @@ Building it taught me a lot about embedded programming, wiring things up properl
 - Live battery and motor readings on the control page
 - Eventually, some autonomous driving, like following a path on its own
 
+## Project Demonstration
+
+- Watch the demonstration of the project on youtube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oiq4mEuV4kM?si=zIrKIPr0RJOxQTik" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Background
 
 This was part of a technical course run through the IIT Madras School Connect Program, which introduces practical ideas in electronic systems and embedded technology.
